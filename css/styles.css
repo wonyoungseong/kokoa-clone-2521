@@ -4,6 +4,7 @@
 @import "variables.css";
 
 /* Components */
+@import "components/animation.css";
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
